@@ -2,10 +2,9 @@
 
 
 #Script kali-ubuntu.sh para adicionar ferramentas do Kali linux no Ubuntu 
-#funçoes
 
-#Funçao menu oferese opçoes para o usuario
-#instalar os metapackages do kali linux
+
+#Funçao menu
 menu(){
 	while :
 
@@ -130,4 +129,5 @@ else
    
 fi
 }
+#Chama função internet
 internet
